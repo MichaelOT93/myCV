@@ -1,0 +1,127 @@
+body{ 
+	background-color: white;
+
+	
+}
+
+	
+h2 {
+	
+	color: black;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 35px;
+	margin: 0 auto;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	
+}
+
+
+div { 
+	
+	width: 50%;
+	margin: auto;
+	
+	
+}
+
+.bar { 
+
+	width: 100%;
+	overflow: hidden;
+	display: inline;
+	float: left;
+	background-color: #5379B7;
+	height: 100%;
+	
+	
+	
+}
+
+.bar a {
+	
+	width: 10%;
+	color: white;
+	padding: 10px 25px;
+	text-align: center;
+	font-size: 30px;
+	transition: 0.3s ease-in-out;
+	float: left;
+	display: inline;
+	
+}
+
+.bar a:hover {
+	
+	background-color: #ABEBC6;
+}
+	
+	
+
+.name {
+	clear: both;
+	width: 50%;
+	float: left;
+	display: inline;
+	background-color: #D8DDE6;
+	height: 54.4px;
+	
+	
+	
+}
+
+.sidebar {
+	
+	float: left;
+	max-width: 50%;
+	background-color: #5379B7;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color: white;
+	text-align: justify;
+	min-height: 600px;
+	
+}
+
+
+
+.work {
+	
+	display: inline;
+	float: left;
+	background-color: #D8DDE6;
+	color: black;
+	width: 50%;
+	font-family: 'Montserrat', sans-serif;
+	text-align: justify;
+	min-height: 600px;
+	
+}
+
+.profile {
+	float: left;
+}
+
+.examples {
+	float: right;
+}
+
+h3 { 
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+h4 {
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+p {
+	padding-left: 12px;
+	padding-right: 12px;
+}
+
+
+
+
